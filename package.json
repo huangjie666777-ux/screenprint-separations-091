@@ -1,0 +1,17 @@
+{
+  "name": "screenprint-separations",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "typescript": "5.8.3",
+    "vite": "6.2.0",
+    "vitest": "3.0.8",
+    "@types/react": "19.0.10",
+    "@types/react-dom": "19.0.4"
+  }
+}
